@@ -1,0 +1,8 @@
+! ----- names for bodies -----
+$ part = 1
+$ fluid = 2
+! ----- names for boundaries -----
+$ part-walls = 1
+$ inlet = 2
+$ outlet = 3
+$ tank-walls = 4
